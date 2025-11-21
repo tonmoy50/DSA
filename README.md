@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tonmoy50/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/tonmoy50/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tonmoy50/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tonmoy50/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tonmoy50/DSA/tree/master/0242-valid-anagram) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tonmoy50/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/tonmoy50/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tonmoy50/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tonmoy50/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tonmoy50/DSA/tree/master/0238-product-of-array-except-self) |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tonmoy50/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
