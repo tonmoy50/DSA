@@ -27,6 +27,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/tonmoy50/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tonmoy50/DSA/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/tonmoy50/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tonmoy50/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tonmoy50/DSA/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/tonmoy50/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tonmoy50/DSA/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
