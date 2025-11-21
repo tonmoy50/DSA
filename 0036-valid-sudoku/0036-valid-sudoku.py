@@ -1,35 +1,15 @@
-import numpy as np
 class Solution:
-    def is_duplicate(self, nums: List[int]) -> bool:
-        print(nums)
-        numset = set()
-        for num in nums:
-            if num in numset:
-                return True
-            else:
-                numset.add(num) if num != "." else numset
-            
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # print(board[:][0])
-        board = np.array(board)
-        # print(board)
-        for i,row in enumerate(board):
-            if self.is_duplicate(board[i, :]):
-                print("Ekhane1")
-                return False
-            if self.is_duplicate(board[:, i]):
-                print("Ekhane2")
-                return False
-        for i in range(0, 9, 3):
-            # print(board)
-            if self.is_duplicate(board[i:i+3, :3].flatten()):
-                print("Ekhane3", i)
-                return False
-            if self.is_duplicate(board[i:i+3, 3:6].flatten()):
-                print("Ekhane4")
-                return False
-            if self.is_duplicate(board[i:i+3, 6:9].flatten()):
-                print("Ekhane5")
-                return False
+        rows = [[False] * 9 for _ in range(9)]
+        cols = [[False] * 9 for _ in range(9)]
+        boxes = [[False] * 9 for _ in range(9)]
+
+        for i in range(9):
+            for j in range(9):
+                if board[i][j] != '.':
+                    num = ord(board[i][j]) - ord('1')
+                    boxIndex = (i // 3) * 3 + (j // 3)
+                    if rows[i][num] or cols[j][num] or boxes[boxIndex][num]:
+                        return False
+                    rows[i][num] = cols[j][num] = boxes[boxIndex][num] = True
         return True
-        
