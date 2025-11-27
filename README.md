@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/tonmoy50/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tonmoy50/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tonmoy50/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/tonmoy50/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0125-valid-palindrome](https://github.com/tonmoy50/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tonmoy50/DSA/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/tonmoy50/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +112,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tonmoy50/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/tonmoy50/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
