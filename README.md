@@ -91,6 +91,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tonmoy50/DSA/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
 ## Matrix
 |  |
@@ -136,4 +137,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tonmoy50/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/tonmoy50/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
