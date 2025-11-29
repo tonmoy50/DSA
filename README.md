@@ -64,6 +64,7 @@
 | [0239-sliding-window-maximum](https://github.com/tonmoy50/DSA/tree/master/0239-sliding-window-maximum) |
 | [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/tonmoy50/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/tonmoy50/DSA/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,8 +141,13 @@
 | [0020-valid-parentheses](https://github.com/tonmoy50/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tonmoy50/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tonmoy50/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/tonmoy50/DSA/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tonmoy50/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tonmoy50/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
