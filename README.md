@@ -175,4 +175,12 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/tonmoy50/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tonmoy50/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tonmoy50/DSA/tree/master/0853-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tonmoy50/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tonmoy50/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
