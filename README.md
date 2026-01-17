@@ -54,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/tonmoy50/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tonmoy50/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tonmoy50/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/tonmoy50/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tonmoy50/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/tonmoy50/DSA/tree/master/0853-car-fleet) |
 ## Array
@@ -95,6 +96,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tonmoy50/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tonmoy50/DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/tonmoy50/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tonmoy50/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -118,6 +120,7 @@
 | [0146-lru-cache](https://github.com/tonmoy50/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tonmoy50/DSA/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/tonmoy50/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/tonmoy50/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tonmoy50/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/tonmoy50/DSA/tree/master/0981-time-based-key-value-store) |
 ## Matrix
@@ -140,6 +143,7 @@
 | [0143-reorder-list](https://github.com/tonmoy50/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tonmoy50/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/tonmoy50/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/tonmoy50/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/tonmoy50/DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -283,4 +287,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tonmoy50/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tonmoy50/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tonmoy50/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
